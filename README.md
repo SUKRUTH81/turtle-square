@@ -2,6 +2,7 @@
 
 
 import turtle
+
 skk = turtle.Turtle()
 
 for i in range(4):
